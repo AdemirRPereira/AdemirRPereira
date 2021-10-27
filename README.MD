@@ -1,1 +1,1 @@
-<h1>O curso estáq sendo muito bom</h1>
+<h1>O curso está sendo muito bom</h1>
